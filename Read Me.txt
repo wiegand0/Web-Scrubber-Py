@@ -1,0 +1,6 @@
+//---------------------//WEB SCRUBBER PYTHON//---------------------//
+Only requirement to be run is Python installation. Tested with Python 3.9
+
+Accepts command line arguments, will ask if none are provided
+
+Written by: Nicholas Wiegand
